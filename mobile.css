@@ -1,0 +1,205 @@
+*{
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    margin: 0 0 ;
+    background-color: black;
+}
+
+.logo{
+    text-align: center;
+}
+.image{
+    height: 150px;
+}
+.name{
+    color:#16CEFF;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    position: relative;
+    top: -40px;
+
+    
+}
+
+.menu a{
+    background-color: #16CEFF;
+    display: block;
+    margin: 50px;
+    text-decoration: none;
+    text-align: center;
+    height: 60px;
+    border-radius: 20px;
+    position: relative;
+    top: -30px;
+    padding: 18px;
+    font-size: 130%;
+    color: black;
+    font-family: fantasy;
+    letter-spacing: 01px;
+    
+}
+.menu a:hover{
+    background-color: #2ca9cc;
+    color: white;
+}
+.photo{
+    position: relative;
+    top: 30px;
+    width: 100%;
+    position: relative;
+    
+}
+.about{
+        font-size: 200%;
+        color: white;
+        text-align: left;
+        position: relative;
+        opacity: 0.3;
+        left: 10px;
+        
+    }
+
+    .home .about{
+        top: -730px;
+    }
+    .bio{
+        text-align: justify;
+        color: white;
+        width:100%;
+        height: auto;
+        font-size:130%;
+        position: relative;
+        padding: 0 10px;
+        top: 50px;
+    
+        text-shadow: 4px 4px 7px rgb(27, 143, 131); 
+        outline-color: 4px turquoise;
+    }
+
+    .works{
+        margin: 7px 5px;
+        height: 120px;
+    }
+    .works-t{
+        margin: 7px 5px;
+        height: 110px;
+    }
+    .works-p{
+        height: 100px;
+        margin: 7px 5px ;
+    }
+.works-c{
+    width: 150px;
+    margin: 7px 10px;
+}
+.logo-spic{
+    position:absolute;
+    left: 120px;
+    top: 15px;
+   
+   
+    height: 100px;
+    
+}
+.skills{
+    background-color: rgb(27, 143, 131) ;
+    height: 550px;
+    width: 350px;
+    position: relative;
+    
+   
+}
+
+.s-text{
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 130px;
+    
+    width: 100%;
+    font-size: 200%;
+    padding: 27px;
+}
+.s-li{
+    list-style: none;
+    position: absolute;
+    top: 220px;
+    left: -50px;
+}
+.s-ul{
+    margin: 50px;
+    font-size: 100%;
+}
+.s-probar-s{
+    display: block;
+    position: relative;
+    top: 265px;
+    left: 40px;
+    margin: 50px;
+    width: 250px;
+    border-radius: 70px;
+    background-color:rgb(235, 235, 235);
+ 
+}
+.s-probar-r{
+    display: block;
+    position: relative;
+    top: -11px;
+    left: 40px;
+    margin: 50px;
+    width: 220px;
+    border-radius: 70px;
+    background-color:rgb(27, 27, 27);
+    
+}
+.skills2{
+    background-color: rgb(27, 143, 131) ;
+    height: 550px;
+    width: 350px;
+    position: relative;
+    top: 40px;
+   
+}
+.skill2pic{
+    position:absolute;
+    left: 90px;
+    top: -19px;
+    height: 170px;
+}
+.skills2text{
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 255, 255);
+    position: absolute;
+    height: 100px;
+    top: 130px;
+    width: 100%;
+    font-size: 200%;
+    padding: 27px;
+
+}
+.skills2fill{
+    position:absolute;
+    top:250px;
+    margin: 15px 15px;
+}
+.ox-fill{
+    width: 240px;
+}
+.ox-fill2{
+    width: 239px;
+    height: 200px ;
+    position: absolute;
+    top: 30px;
+    left: 76px;
+    
+}
+.btn{
+    position: relative;
+    top: 230px;
+    left: 80px;
+}
